@@ -1,0 +1,2335 @@
+[
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/000-cos01-01.webp",
+    "line": 209,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/001-cos01-01a.webp",
+    "line": 313,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/002-cos01-02.webp",
+    "line": 929,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Strahd's Crest",
+    "url": "img/adventure/CoS/003-cos19-10.webp",
+    "line": 950,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/003-cos19-10.webp",
+    "line": 950,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/004-cos02-01.webp",
+    "line": 1125,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/005-cos02-02.webp",
+    "line": 1207,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/006-cos02-03.webp",
+    "line": 1294,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 2.1: Barovia",
+    "url": "img/adventure/CoS/007-001.webp",
+    "line": 1692,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/008-cos201.webp",
+    "line": 1692,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/007-001.webp",
+    "line": 1692,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/008-cos201.webp",
+    "line": 1692,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/009-cos02-04.webp",
+    "line": 1707,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 2.2: Tser Pool Encampment",
+    "url": "img/adventure/CoS/010-cos02-06.webp",
+    "line": 1810,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/011-cos202.webp",
+    "line": 1810,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/010-cos02-06.webp",
+    "line": 1810,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/011-cos202.webp",
+    "line": 1810,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/012-cos03-01.webp",
+    "line": 2057,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 3.1: Village of Barovia",
+    "url": "img/adventure/CoS/013-003.webp",
+    "line": 2103,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/014-cos301.webp",
+    "line": 2103,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/013-003.webp",
+    "line": 2103,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/014-cos301.webp",
+    "line": 2103,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Ismark the Lesser",
+    "url": "img/adventure/CoS/015-cos03-03.webp",
+    "line": 2124,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/015-cos03-03.webp",
+    "line": 2124,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Mad Mary|CoS}",
+    "url": "img/adventure/CoS/016-cos03-04.webp",
+    "line": 2151,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/016-cos03-04.webp",
+    "line": 2151,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Ireena Kolyana|CoS}",
+    "url": "img/adventure/CoS/017-cos03-05.webp",
+    "line": 2177,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/017-cos03-05.webp",
+    "line": 2177,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 3.2: Church",
+    "url": "img/adventure/CoS/018-004.webp",
+    "line": 2199,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/019-cos302.webp",
+    "line": 2199,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/018-004.webp",
+    "line": 2199,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/019-cos302.webp",
+    "line": 2199,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Donavich|CoS}",
+    "url": "img/adventure/CoS/020-cos03-07.webp",
+    "line": 2249,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/020-cos03-07.webp",
+    "line": 2249,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Doru|CoS}",
+    "url": "img/adventure/CoS/021-cos03-08.webp",
+    "line": 2269,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/021-cos03-08.webp",
+    "line": 2269,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/022-cos03-09.webp",
+    "line": 2321,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/023-cos04-01.webp",
+    "line": 2328,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 2: Walls of Ravenloft",
+    "url": "img/adventure/CoS/024-005.webp",
+    "line": 2577,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/024-005-player.webp",
+    "line": 2577,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Walls of Ravenloft (Battlemap; DM Version)",
+    "url": "img/adventure/CoS/map-4.02-walls.webp",
+    "line": 2577,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Walls of Ravenloft (Battlemap; Player Version)",
+    "url": "img/adventure/CoS/map-4.02-walls-player.webp",
+    "line": 2577,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/024-005.webp",
+    "line": 2577,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/024-005-player.webp",
+    "line": 2577,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.02-walls.webp",
+    "line": 2577,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.02-walls-player.webp",
+    "line": 2577,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 3: Main Floor",
+    "url": "img/adventure/CoS/025-006.webp",
+    "line": 2652,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/025-006-player.webp",
+    "line": 2652,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Main Floor (Battlemap; DM Version)",
+    "url": "img/adventure/CoS/map-4.03-main-floor.webp",
+    "line": 2652,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Main Floor (Battlemap; Player Version)",
+    "url": "img/adventure/CoS/map-4.03-main-floor-player.webp",
+    "line": 2652,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/025-006.webp",
+    "line": 2652,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/025-006-player.webp",
+    "line": 2652,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.03-main-floor.webp",
+    "line": 2652,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.03-main-floor-player.webp",
+    "line": 2652,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/026-cos04-04.webp",
+    "line": 2721,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/027-cos04-05.webp",
+    "line": 2844,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 4: Court of the Count",
+    "url": "img/adventure/CoS/028-007.webp",
+    "line": 2900,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/028-007-player.webp",
+    "line": 2900,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Court of the Count (Battlemap; DM Version)",
+    "url": "img/adventure/CoS/map-4.04-court-revised.webp",
+    "line": 2900,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Court of the Count (Battlemap; Player Version)",
+    "url": "img/adventure/CoS/map-4.04-court-player-revised.webp",
+    "line": 2900,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/028-007.webp",
+    "line": 2900,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/028-007-player.webp",
+    "line": 2900,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.04-court-revised.webp",
+    "line": 2900,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.04-court-player-revised.webp",
+    "line": 2900,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Lief Lipsiege|CoS}",
+    "url": "img/adventure/CoS/029-cos04-07.webp",
+    "line": 2980,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/029-cos04-07.webp",
+    "line": 2980,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 5: Rooms of Weeping",
+    "url": "img/adventure/CoS/030-008.webp",
+    "line": 3084,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/030-008-player.webp",
+    "line": 3084,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Rooms of Weeping (Battlemap; DM Version)",
+    "url": "img/adventure/CoS/map-4.05-weeping.webp",
+    "line": 3084,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Rooms of Weeping (Battlemap; Player Version)",
+    "url": "img/adventure/CoS/map-4.05-weeping-player.webp",
+    "line": 3084,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/030-008.webp",
+    "line": 3084,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/030-008-player.webp",
+    "line": 3084,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.05-weeping.webp",
+    "line": 3084,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.05-weeping-player.webp",
+    "line": 3084,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Tatyana",
+    "url": "img/adventure/CoS/031-cos04-09.webp",
+    "line": 3142,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/031-cos04-09.webp",
+    "line": 3142,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Gertruda|CoS}",
+    "url": "img/adventure/CoS/032-cos04-10.webp",
+    "line": 3246,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/032-cos04-10.webp",
+    "line": 3246,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 6: Spires of Ravenloft",
+    "url": "img/adventure/CoS/033-009.webp",
+    "line": 3309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/033-009-player.webp",
+    "line": 3309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Spires and Tower of Ravenloft (Battlemap; DM Version)",
+    "url": "img/adventure/CoS/map-4.06-spires12.webp",
+    "line": 3309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Spires and Tower of Ravenloft (Battlemap; Player Version)",
+    "url": "img/adventure/CoS/map-4.06-spires12-player.webp",
+    "line": 3309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/033-009.webp",
+    "line": 3309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/033-009-player.webp",
+    "line": 3309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.06-spires12.webp",
+    "line": 3309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.06-spires12-player.webp",
+    "line": 3309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/034-cos04-11.webp",
+    "line": 3317,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Escher|CoS} and the Three Brides",
+    "url": "img/adventure/CoS/035-cos04-20.webp",
+    "line": 3341,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/035-cos04-20.webp",
+    "line": 3341,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Maps 7-10: Spires and Tower of Ravenloft",
+    "url": "img/adventure/CoS/036-010.webp",
+    "line": 3410,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/036-010-player.webp",
+    "line": 3410,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/036-010.webp",
+    "line": 3410,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/036-010-player.webp",
+    "line": 3410,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/037-cos19-10.webp",
+    "line": 3493,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs",
+    "url": "img/adventure/CoS/038-011.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/038-011-player.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Larders of Ill Omen (Battlemap; DM Version)",
+    "url": "img/adventure/CoS/map-4.08-larders.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Larders of Ill Omen (Battlemap; Player Version)",
+    "url": "img/adventure/CoS/map-4.08-larders-player.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Dungeon and Catacombs (Battlemap; DM Version)",
+    "url": "img/adventure/CoS/map-4.09-dungeons-and-catacombs.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Dungeon and Catacombs (Battlemap; Player Version)",
+    "url": "img/adventure/CoS/map-4.09-dungeons-and-catacombs-player.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/038-011.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/038-011-player.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.08-larders.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.08-larders-player.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.09-dungeons-and-catacombs.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/map-4.09-dungeons-and-catacombs-player.webp",
+    "line": 3524,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map: Elevator Trap",
+    "url": "img/adventure/CoS/039-012.webp",
+    "line": 3532,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/040-cos401.webp",
+    "line": 3532,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/039-012.webp",
+    "line": 3532,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/040-cos401.webp",
+    "line": 3532,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Cyrus Belview|CoS}",
+    "url": "img/adventure/CoS/041-cos04-16.webp",
+    "line": 3563,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/041-cos04-16.webp",
+    "line": 3563,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map: Traps in Area K73",
+    "url": "img/adventure/CoS/042-cos04-17.webp",
+    "line": 3702,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/042-cos04-17.webp",
+    "line": 3702,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Emil Toranescu|CoS}",
+    "url": "img/adventure/CoS/043-cos04-18.webp",
+    "line": 3800,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/043-cos04-18.webp",
+    "line": 3800,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/044-cos04-19.webp",
+    "line": 3854,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "King Barov and Queen Ravenovia",
+    "url": "img/adventure/CoS/045-cos04-21.webp",
+    "line": 4561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/045-cos04-21.webp",
+    "line": 4561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/046-cos05-01.webp",
+    "line": 4584,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 5.1: Vallaki (Area N)",
+    "url": "img/adventure/CoS/047-013.webp",
+    "line": 4602,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/048-cos05-02-player.webp",
+    "line": 4602,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/047-013.webp",
+    "line": 4602,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/048-cos05-02-player.webp",
+    "line": 4602,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Milivoj|CoS}",
+    "url": "img/adventure/CoS/049-cos05-03.webp",
+    "line": 4675,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/049-cos05-03.webp",
+    "line": 4675,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 5.2: Blue Water Inn (Area N2)",
+    "url": "img/adventure/CoS/050-014.webp",
+    "line": 4707,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/051-cos501.webp",
+    "line": 4707,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/050-014.webp",
+    "line": 4707,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/051-cos501.webp",
+    "line": 4707,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Szoldar Szoldarovich|CoS}",
+    "url": "img/adventure/CoS/052-cos05-05.webp",
+    "line": 4756,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Yevgeni Krushkin|CoS}",
+    "url": "img/adventure/CoS/053-cos05-06.webp",
+    "line": 4756,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/052-cos05-05.webp",
+    "line": 4756,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/053-cos05-06.webp",
+    "line": 4756,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "The Martikov Family",
+    "url": "img/adventure/CoS/054-cos05-07.webp",
+    "line": 4887,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/054-cos05-07.webp",
+    "line": 4887,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 5.3: Burgomaster's Mansion (Area N3)",
+    "url": "img/adventure/CoS/055-015.webp",
+    "line": 4926,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/056-cos502.webp",
+    "line": 4926,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/055-015.webp",
+    "line": 4926,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/056-cos502.webp",
+    "line": 4926,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "The Baroness and Baron",
+    "url": "img/adventure/CoS/057-cos05-09.webp",
+    "line": 4939,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/057-cos05-09.webp",
+    "line": 4939,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 5.4: Wachterhaus (Area N4)",
+    "url": "img/adventure/CoS/058-016.webp",
+    "line": 5205,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/059-cos503.webp",
+    "line": 5205,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/058-016.webp",
+    "line": 5205,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/059-cos503.webp",
+    "line": 5205,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Fiona Wachter and {@creature Majesto|CoS}",
+    "url": "img/adventure/CoS/060-cos05-11.webp",
+    "line": 5216,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/060-cos05-11.webp",
+    "line": 5216,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/061-cos05-12.webp",
+    "line": 5452,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Henrik Van Der Voort|CoS}",
+    "url": "img/adventure/CoS/062-cos05-14.webp",
+    "line": 5478,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/062-cos05-14.webp",
+    "line": 5478,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 5.5: Coffin Maker's Shop (Area N6)",
+    "url": "img/adventure/CoS/063-cos05-13.webp",
+    "line": 5488,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/064-cos504.webp",
+    "line": 5488,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/063-cos05-13.webp",
+    "line": 5488,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/064-cos504.webp",
+    "line": 5488,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Gadof Blinsky|CoS} and {@creature Piccolo|CoS}",
+    "url": "img/adventure/CoS/065-cos05-15.webp",
+    "line": 5542,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/065-cos05-15.webp",
+    "line": 5542,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 5.6: Vistani Camp (Area N9)",
+    "url": "img/adventure/CoS/066-018.webp",
+    "line": 5625,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/067-cos505.webp",
+    "line": 5625,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/066-018.webp",
+    "line": 5625,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/067-cos505.webp",
+    "line": 5625,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Luvash|CoS}",
+    "url": "img/adventure/CoS/068-cos05-18.webp",
+    "line": 5640,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Arrigal|CoS}",
+    "url": "img/adventure/CoS/069-cos05-17.webp",
+    "line": 5640,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/068-cos05-18.webp",
+    "line": 5640,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/069-cos05-17.webp",
+    "line": 5640,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/070-cos06-01.webp",
+    "line": 5835,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/071-cos06-02.webp",
+    "line": 5868,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 6.1: Old Bonegrinder (Area O)",
+    "url": "img/adventure/CoS/072-019.webp",
+    "line": 5898,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/073-cos601.webp",
+    "line": 5898,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/072-019.webp",
+    "line": 5898,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/073-cos601.webp",
+    "line": 5898,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/074-cos06-04.webp",
+    "line": 5944,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/075-cos07-01.webp",
+    "line": 5961,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/076-cos07-02.webp",
+    "line": 5982,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 7.1: Argynvostholt (Area Q)",
+    "url": "img/adventure/CoS/077-020.webp",
+    "line": 6020,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/078-cos701.webp",
+    "line": 6020,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/077-020.webp",
+    "line": 6020,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/078-cos701.webp",
+    "line": 6020,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 7.2: Argynvostholt (Area Q) - Rooftop and Beacon",
+    "url": "img/adventure/CoS/079-021.webp",
+    "line": 6309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/080-cos702.webp",
+    "line": 6309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/079-021.webp",
+    "line": 6309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/080-cos702.webp",
+    "line": 6309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Sir Godfrey Gwilym|CoS}",
+    "url": "img/adventure/CoS/081-cos07-05.webp",
+    "line": 6433,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/081-cos07-05.webp",
+    "line": 6433,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/082-cos08-01.webp",
+    "line": 6643,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 8.1: The Village of Krezk (Area S)",
+    "url": "img/adventure/CoS/083-022.webp",
+    "line": 6654,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/084-cos801.webp",
+    "line": 6654,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/083-022.webp",
+    "line": 6654,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/084-cos801.webp",
+    "line": 6654,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/085-cos08-03.webp",
+    "line": 6710,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 8.2: Abbey of Saint Markovia - Ground Floor",
+    "url": "img/adventure/CoS/086-023.webp",
+    "line": 6749,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/087-cos802.webp",
+    "line": 6749,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/086-023.webp",
+    "line": 6749,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/087-cos802.webp",
+    "line": 6749,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Otto Belview|CoS}",
+    "url": "img/adventure/CoS/088-cos08-04.webp",
+    "line": 6766,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/088-cos08-04.webp",
+    "line": 6766,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Zygfrek Belview|CoS}",
+    "url": "img/adventure/CoS/089-cos08-05.webp",
+    "line": 6776,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/089-cos08-05.webp",
+    "line": 6776,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar",
+    "url": "img/adventure/CoS/090-024.webp",
+    "line": 6838,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/091-cos803.webp",
+    "line": 6838,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/090-024.webp",
+    "line": 6838,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/091-cos803.webp",
+    "line": 6838,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Clovin Belview|CoS}",
+    "url": "img/adventure/CoS/092-cos08-07.webp",
+    "line": 7055,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/092-cos08-07.webp",
+    "line": 7055,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Baron Krezkov",
+    "url": "img/adventure/CoS/093-cos08-08.webp",
+    "line": 7189,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/093-cos08-08.webp",
+    "line": 7189,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/094-cos09-01.webp",
+    "line": 7243,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 9.1: Tsolenka Pass (Area T)",
+    "url": "img/adventure/CoS/095-025.webp",
+    "line": 7252,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/096-cos901.webp",
+    "line": 7252,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/095-025.webp",
+    "line": 7252,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/096-cos901.webp",
+    "line": 7252,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/097-cos09-03.webp",
+    "line": 7361,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/098-cos10-01.webp",
+    "line": 7399,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 10.1: The Ruins of Berez (Area U)",
+    "url": "img/adventure/CoS/099-026.webp",
+    "line": 7427,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/100-cos1002.webp",
+    "line": 7427,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/099-026.webp",
+    "line": 7427,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/100-cos1002.webp",
+    "line": 7427,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 10.2: {@creature Baba Lysaga|CoS}'s Creeping Hut",
+    "url": "img/adventure/CoS/101-cos10-02.webp",
+    "line": 7481,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/102-cos1001.webp",
+    "line": 7481,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/101-cos10-02.webp",
+    "line": 7481,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/102-cos1001.webp",
+    "line": 7481,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/103-cos10-04.webp",
+    "line": 7603,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/104-cos11-01.webp",
+    "line": 7612,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 11.1: Van Richten's Tower (Area V)",
+    "url": "img/adventure/CoS/105-027.webp",
+    "line": 7651,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/106-cos1101.webp",
+    "line": 7651,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/105-027.webp",
+    "line": 7651,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/106-cos1101.webp",
+    "line": 7651,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/107-cos11-02.webp",
+    "line": 7679,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/108-cos11-03.webp",
+    "line": 7688,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/109-cos11-05.webp",
+    "line": 7789,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/110-cos12-01.webp",
+    "line": 7804,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 12.1: Wizard of Wines Winery (Area W)",
+    "url": "img/adventure/CoS/111-028.webp",
+    "line": 7882,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/112-cos1201.webp",
+    "line": 7882,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/111-028.webp",
+    "line": 7882,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/112-cos1201.webp",
+    "line": 7882,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Twig Blight",
+    "url": "img/adventure/CoS/113-cos12-03.webp",
+    "line": 7953,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/113-cos12-03.webp",
+    "line": 7953,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Davian Martikov|CoS}",
+    "url": "img/adventure/CoS/114-cos12-04.webp",
+    "line": 8044,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/114-cos12-04.webp",
+    "line": 8044,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/115-cos12-05.webp",
+    "line": 8123,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/116-cos13-01.webp",
+    "line": 8130,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 13.1: Amber Temple (Area X) - Upper Level",
+    "url": "img/adventure/CoS/117-029.webp",
+    "line": 8152,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/118-cos1301.webp",
+    "line": 8152,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/117-029.webp",
+    "line": 8152,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/118-cos1301.webp",
+    "line": 8152,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Vilnius|CoS} and Quasit",
+    "url": "img/adventure/CoS/119-cos13-03.webp",
+    "line": 8309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/119-cos13-03.webp",
+    "line": 8309,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 13.2: Amber Temple (Area X) - Lower Level",
+    "url": "img/adventure/CoS/120-030.webp",
+    "line": 8570,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/121-cos1302.webp",
+    "line": 8570,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/120-030.webp",
+    "line": 8570,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/121-cos1302.webp",
+    "line": 8570,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Amber Golem|CoS}",
+    "url": "img/adventure/CoS/122-cos13-05.webp",
+    "line": 8835,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/122-cos13-05.webp",
+    "line": 8835,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/123-cos14-01.webp",
+    "line": 8971,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 14.1: Yester Hill (Area Y)",
+    "url": "img/adventure/CoS/124-031.webp",
+    "line": 8980,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/125-cos1401.webp",
+    "line": 8980,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/124-031.webp",
+    "line": 8980,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/125-cos1401.webp",
+    "line": 8980,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/126-cos15-01.webp",
+    "line": 9105,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map 15.1: Werewolf Den (Area Z)",
+    "url": "img/adventure/CoS/127-032.webp",
+    "line": 9131,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/128-cos1501.webp",
+    "line": 9131,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/127-032.webp",
+    "line": 9131,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/128-cos1501.webp",
+    "line": 9131,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Zuleika Toranescu|CoS}",
+    "url": "img/adventure/CoS/129-cos15-03.webp",
+    "line": 9213,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/129-cos15-03.webp",
+    "line": 9213,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Kiril Stoyanovich|CoS}",
+    "url": "img/adventure/CoS/130-cos15-04.webp",
+    "line": 9258,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/130-cos15-04.webp",
+    "line": 9258,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/131-cos16-01.webp",
+    "line": 9299,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/132-cos16-02.webp",
+    "line": 9374,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Thornboldt \"Thorn\" Durst|CoS} and {@creature Rosavalda \"Rose\" Durst|CoS}",
+    "url": "img/adventure/CoS/133-cos17-01.webp",
+    "line": 9435,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/133-cos17-01.webp",
+    "line": 9435,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Map B.1: Death House",
+    "url": "img/adventure/CoS/134-deathhousedm.webp",
+    "line": 9470,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "Player Version",
+    "url": "img/adventure/CoS/135-deathhouseplayer.webp",
+    "line": 9470,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/134-deathhousedm.webp",
+    "line": 9470,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/135-deathhouseplayer.webp",
+    "line": 9470,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/136-cos18-01.webp",
+    "line": 9933,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Strahd's Animated Armor|CoS}",
+    "url": "img/adventure/CoS/143-636623960253938131.webp",
+    "line": 10048,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/143-636623960253938131.webp",
+    "line": 10048,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Baba Lysaga|CoS}",
+    "url": "img/adventure/CoS/144-636379873620950408.webp",
+    "line": 10076,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/144-636379873620950408.webp",
+    "line": 10076,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Barovian Witch|CoS}",
+    "url": "img/adventure/CoS/145-636379876850421049.webp",
+    "line": 10088,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/145-636379876850421049.webp",
+    "line": 10088,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Ezmerelda d'Avenir|CoS}",
+    "url": "img/adventure/CoS/146-636623997177812461.webp",
+    "line": 10124,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/146-636623997177812461.webp",
+    "line": 10124,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Izek Strazni|CoS}",
+    "url": "img/adventure/CoS/147-636623996907006468.webp",
+    "line": 10152,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/147-636623996907006468.webp",
+    "line": 10152,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Mongrelfolk|CoS}",
+    "url": "img/adventure/CoS/148-636985373100391611.webp",
+    "line": 10217,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/148-636985373100391611.webp",
+    "line": 10217,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Phantom Warrior|CoS}",
+    "url": "img/adventure/CoS/149-636623996440271782.webp",
+    "line": 10231,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/149-636623996440271782.webp",
+    "line": 10231,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Pidlwick II|CoS}",
+    "url": "img/adventure/CoS/150-636623996229835683.webp",
+    "line": 10259,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/150-636623996229835683.webp",
+    "line": 10259,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Rahadin|CoS}",
+    "url": "img/adventure/CoS/151-636623996027511661.webp",
+    "line": 10291,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/151-636623996027511661.webp",
+    "line": 10291,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Rictavio|CoS}",
+    "url": "img/adventure/CoS/152-636623995708971736.webp",
+    "line": 10313,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/152-636623995708971736.webp",
+    "line": 10313,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Strahd von Zarovich|CoS}",
+    "url": "img/adventure/CoS/153-636988936829621698.webp",
+    "line": 10369,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/153-636988936829621698.webp",
+    "line": 10369,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/154-cos19-11.webp",
+    "line": 10402,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "{@creature Wereraven|VRGR}",
+    "url": "img/adventure/CoS/155-637515969684846750.webp",
+    "line": 10426,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/155-637515969684846750.webp",
+    "line": 10426,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10549,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10552,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10552,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10552,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10552,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10552,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10552,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10552,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10552,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10552,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10552,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10555,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10555,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10555,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10555,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10555,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10555,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10555,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10555,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10555,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10555,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10558,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10558,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10558,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10558,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10558,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10558,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10558,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10558,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10558,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10558,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/decks/CoS/Tarokka",
+    "line": 10561,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/210-f1.webp",
+    "line": 10582,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/211-f2.webp",
+    "line": 10593,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/212-f3.webp",
+    "line": 10618,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/213-f4.webp",
+    "line": 10618,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/214-f5.webp",
+    "line": 10638,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/215-f6.webp",
+    "line": 10638,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/216-f7.webp",
+    "line": 10654,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/217-f8.webp",
+    "line": 10669,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "markdown-link",
+    "text": "On the Cover: the master of Ravenloft is having guests for dinner, and you are invited. Ben Oliver sheds light on the vampire Strahd von Zarovich, whose dark past is a tale to be told, and whose evil knows no bounds.",
+    "url": "img/adventure/CoS/credits.webp",
+    "line": 10719,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/credits.webp",
+    "line": 10719,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/218-poster-barovia.webp",
+    "line": 10728,
+    "file": "curse_of_strahd.md"
+  },
+  {
+    "type": "bare-url",
+    "url": "img/adventure/CoS/219-poster-castle-ravenloft.webp",
+    "line": 10730,
+    "file": "curse_of_strahd.md"
+  }
+]

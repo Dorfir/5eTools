@@ -1,0 +1,21 @@
+{
+  "name": "5etools",
+  "version": "1.0.0",
+  "description": "Simple Node.js CLI to find URLs in local Markdown (.md) files.",
+  "homepage": "https://github.com/Dorfir/5eTools#readme",
+  "bugs": {
+    "url": "https://github.com/Dorfir/5eTools/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dorfir/5eTools.git"
+  },
+  "license": "ISC",
+  "author": "dorfir",
+  "type": "module",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node parser.js"
+  }
+}
