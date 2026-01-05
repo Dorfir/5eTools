@@ -1,6 +1,12 @@
-import { download } from "./module_upload.js";
-import { main } from "./module_search_urls.js"
-import { iterate } from "./module_iterate.js";
+import { download } from "./module_upload.mjs";
+import { main } from "./module_search_urls.mjs"
+import { iterate } from "./module_iterate.mjs";
+import EventEmitter from "node:events";
+
+
+const url_prefix_distant = 'https://5e.tools/'
+const url_prefix_local = 'img/'
+const eventEmitter = new EventEmitter();
 
 
 // download('https://5e.tools/img/adventure/CoS/001-cos01-01a.webp', 'img/001-cos01-01a.wbep', function(err) {
@@ -18,8 +24,62 @@ import { iterate } from "./module_iterate.js";
 // }
 
 
+
+function launchSetOfDownloads(url_set) {
+  eventEmitter.on('download_complete', (index) => {
+    console.log('download_complete event recieved, n°' + index)
+  })
+
+  url_set.forEach((url_entry, url_index) => {
+    download(url_prefix_distant + url_entry.url, url_prefix_local + url_entry.url.split('/').splice(-1), function(err) {
+      if (err) {
+        console.log('Download '+ url_index +' failed: ' + err)
+      } else {
+        console.log('Download '+ url_index +' succeeded');
+        eventEmitter.emit('download_complete', url_index)
+      }
+    })
+  });
+}
+
+
+function chunkArray(arr, size) {
+  const res = [];
+  for (let i = 0; i < arr.length; i += size) res.push(arr.slice(i, i + size));
+  return res;
+}
+
 try {
-  iterate('export.json')
+  let clean_list = iterate('export.json')
+  let split_list = chunkArray(clean_list, 5)
+  console.log(split_list[0])
+  launchSetOfDownloads(split_list[0])
 } catch(err) {
   console.log(err)
+
 }
+
+
+// try {
+//   let clean_list = iterate('export.json')
+
+//   for (var i=0; i < clean_list.length; i=i+10) {
+
+//     for (var j=0; j < 10; j++) {
+
+//       let index = i + j
+//       if (index < clean_list.length) {
+//         console.log(clean_list[index].url)
+//       }
+
+//     }
+
+//     setTimeout(() => {
+//       console.log('-------------')
+//     }, 1000)
+
+//   }
+
+// } catch(err) {
+//   console.log(err)
+// }

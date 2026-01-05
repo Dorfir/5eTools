@@ -1,0 +1,7 @@
+{
+  "name": "client1",
+  "enabledModels": [
+    "SomeModel",
+    "Claude Haiku 4.5"
+  ]
+}

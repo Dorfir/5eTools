@@ -1,0 +1,6 @@
+{
+  "name": "client3",
+  "enabledModels": [
+    "Claude Haiku 4.5"
+  ]
+}

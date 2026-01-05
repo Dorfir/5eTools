@@ -8,6 +8,11 @@ export function iterate(myfile) {
 
     let json = fs.readFileSync(myfile, {encoding: 'utf8'})
     json = JSON.parse(json)
-    console.log(json[0].url)
+    let short_json = Array()
+    json.forEach(element => {
+        if (element.url.endsWith('webp'))
+        short_json.push({'url': element.url})
+    });
+    return short_json
     // console.log(json)
 }
